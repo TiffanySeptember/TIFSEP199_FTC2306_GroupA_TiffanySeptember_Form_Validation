@@ -1,0 +1,16 @@
+.input-wrapper {
+  margin-bottom: 10px;
+}
+span {
+  color: red;
+}
+.about-label {
+  vertical-align: top;
+  display: inline-block;
+  width: 100px;
+}
+label {
+  vertical-align: top; /* <--- this is for centering the label text */
+  display: inline-block;
+  width: 100px;
+}
